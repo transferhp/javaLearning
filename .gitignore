@@ -3,6 +3,8 @@
 
 *.classpath
 
+#### for mac os ###
+.metadata/
 
 # Package Files #
 *.jar
