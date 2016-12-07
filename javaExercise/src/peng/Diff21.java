@@ -1,3 +1,6 @@
+package peng;
+
+
 public class Diff21 {
 	/*
 	 * Given an int n, return the absolute difference between n and 21, 
@@ -12,12 +15,3 @@ public class Diff21 {
 
 }
 
-
-class TestDiff21{
-	
-	public static void main(String args []) {
-		Diff21 test = new Diff21();
-		assert test.dff21(31) == 20;
-		assert test.dff21(10) == 11;
-	}
-}

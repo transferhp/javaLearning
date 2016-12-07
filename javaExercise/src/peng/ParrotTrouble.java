@@ -1,3 +1,4 @@
+package peng;
 
 public class ParrotTrouble {
 	/*
@@ -16,11 +17,3 @@ public class ParrotTrouble {
 
 }
 
-
-class TestParrotTrouble {
-	public static void main(String args []) {
-	ParrotTrouble parrot = new ParrotTrouble();
-	assert parrot.parrotTrouble(false, 6) == false;
-	assert parrot.parrotTrouble(true, 5) == true;
-	}
-}

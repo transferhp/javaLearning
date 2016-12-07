@@ -1,3 +1,4 @@
+package peng;
 
 public class FrontBack {
 	/*
@@ -18,12 +19,3 @@ public class FrontBack {
 	}
 }
 
-
-class TestFrontBack {
-	public static void main (String args []){
-		FrontBack sampleString = new FrontBack();
-		assert sampleString.changeFrontBackChar("code").equals("eodc");
-		assert sampleString.changeFrontBackChar("").equals("");
-		assert sampleString.changeFrontBackChar("a").equals("a");
-	}
-}

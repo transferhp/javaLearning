@@ -1,3 +1,4 @@
+package peng;
 
 public class SumDouble {
 	/*
@@ -16,13 +17,3 @@ public class SumDouble {
 
 }
 
-
-class TestSumDouble{
-	
-	public static void main(String args []){
-		SumDouble operator = new SumDouble();
-		assert operator.sum(3, 4) == 7;
-		assert operator.sum(5, 5) == 20;
-		assert operator.sum(4, 2) == 5;
-	}
-}

@@ -1,3 +1,4 @@
+package peng;
 
 public class NotString {
 	/*
@@ -16,11 +17,3 @@ public class NotString {
 }
 
 
-class TestNotString {
-	public static void main (String args []){
-		NotString sampleStr= new NotString();
-		assert sampleStr.check("not ok!").equals("not ok!");
-		assert sampleStr.check("yes!").equals("not yes!");
-		assert sampleStr.check("yes").equals("yes"); // not pass
-	}
-}
