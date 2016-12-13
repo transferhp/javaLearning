@@ -1,8 +1,10 @@
-package peng;
+
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import peng.MixStart;
 
 public class MixStartTest {
 

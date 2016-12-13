@@ -1,4 +1,4 @@
-package javaExercise;
+
 
 import peng.Diff21;
 import junit.framework.TestCase;

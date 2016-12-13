@@ -1,4 +1,4 @@
-package javaExercise;
+
 
 import peng.LastDigt;
 import junit.framework.TestCase;

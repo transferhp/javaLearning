@@ -1,4 +1,4 @@
-package javaExercise;
+
 
 import junit.framework.TestCase;
 import peng.NotString;

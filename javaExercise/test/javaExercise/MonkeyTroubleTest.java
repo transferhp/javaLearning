@@ -1,4 +1,4 @@
-package javaExercise;
+
 
 import peng.MonkeyTrouble;
 import junit.framework.TestCase;

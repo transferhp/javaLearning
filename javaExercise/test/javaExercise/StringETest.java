@@ -1,4 +1,4 @@
-package javaExercise;
+
 
 import peng.StringE;
 import junit.framework.TestCase;
