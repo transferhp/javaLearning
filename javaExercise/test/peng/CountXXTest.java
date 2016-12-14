@@ -1,9 +1,8 @@
+package peng;
 
 
-import static org.junit.Assert.*;
-
+import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-
 import peng.CountXX;
 
 public class CountXXTest {
